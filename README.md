@@ -72,7 +72,7 @@ Ref: https://www.tensorflow.org/agents/overview, https://pytorch.org/tutorials/i
 #### [Transfer Learning With Pre-trained Distil-RoBERTa Model For Extractive Question Answering](https://github.com/HenrySomeCode/Transfer_Learning_With_Pre_trained_Distil_RoBERTa_Model_For_Extractive_Question_Answering.git)
 
 
-Ref for building this own NLP self-learning syllabus ( BUT only projects not related theory): 
+Reference for building this own NLP self-learning syllabus ( BUT only projects not related theory): 
 
 * [Deep Learning in NLP Course](https://cole.vn/san-pham/khoa-hoc-deep-learning-in-natural-language-processing-793).
 
