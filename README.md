@@ -1,4 +1,4 @@
-# My Own AI/ML/DL Learning Process
+# My AI/ML/DL Projects at Machine Learning & Deep Learning Foundation - by Edtech Centre & Edtech Cole & Hanoi Univeristy of Science and Technology
 
 ## Machine learning
 
