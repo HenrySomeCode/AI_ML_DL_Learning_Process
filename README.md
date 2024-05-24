@@ -60,13 +60,6 @@ Ref: https://www.tensorflow.org/agents/overview, https://pytorch.org/tutorials/i
 #### [Transformers From Scratch](https://github.com/HenrySomeCode/Transformers_From_Scratch.git)
 
 #### [Transfer Learning With Pre-trained Distil-RoBERTa Model For Extractive Question Answering](https://github.com/HenrySomeCode/Transfer_Learning_With_Pre_trained_Distil_RoBERTa_Model_For_Extractive_Question_Answering.git)
-
-
-Reference for building this own NLP self-learning syllabus ( BUT only projects not related theory): 
-
-* [Deep Learning in NLP Course](https://cole.vn/san-pham/khoa-hoc-deep-learning-in-natural-language-processing-793).
-
-  P/s: I have not joined this Cole's course. Instead, I have been studying an AI/ML/DL Course by Master Tuan Linh & TA. It's great, the Master & Teaching Assistants are friendly and willing to answer questions from students, and I recommend others to join it too!
   
 ## Deep learning for computer vision 
 
